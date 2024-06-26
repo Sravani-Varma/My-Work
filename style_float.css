@@ -1,0 +1,55 @@
+
+.maindiv{
+    height: 180px;
+    z-index: 1;
+    padding: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 50px 220px 20px 220px;
+    border: 1px solid; 
+    border-radius: 10px; 
+    background-color: #525252;
+}
+.MainImg{
+    float: right; 
+    width: 300px;
+    position: relative;
+    top: -20px;
+    display: inline-block;
+}
+.maincontent{
+    display: inline-block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    float: left;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+}
+#p{
+    margin-bottom: 0px;
+    opacity: 0.5;
+}
+#h1{
+    font-size: 40px; 
+    margin: 0px;  
+    margin-top: 10px;
+}
+.Line1, .Line2, .Line3{
+    display: inline-block;
+}
+.image1, .image2, .image3{
+    width: 200px;
+    padding: 8px;
+    padding-bottom: 0px;
+    border-radius: 20px;
+}
+.maingroup{
+    text-align: center;
+}
+.link{
+    text-align: left;
+    padding-left: 10px;
+    color: #3898FB;
+    text-decoration: underline;
+    line-height: 0.5;
+}
